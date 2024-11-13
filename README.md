@@ -80,6 +80,9 @@ Contributions to this project were made by:
 - Taha Ghori
 - Sarah Jawwad
 - Kartike Choudhary
+- Anum Amin
+- Avan Mamende
+- Uzair Shaikh
 
 ## License
 
